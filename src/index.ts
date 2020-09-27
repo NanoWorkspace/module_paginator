@@ -1,6 +1,4 @@
-import Nano from "@ghom/nano-bot"
-import enmap from "enmap"
+import "events"
+import Paginator from "./app/Paginator"
 
-const NanoModule = {}
-
-export default NanoModule
+export default Paginator
